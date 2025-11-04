@@ -1,0 +1,72 @@
+Number of questions (topic-wise):
+SVM-1
+Decision Tree & Random Forest-1
+Gaussian Naive Bayes-1
+Linear & Logistic-1
+Fundamentals of Machine Learning and Statistics-1
+PCA-1
+Clustering-2
+
+Lab:
+Classification: Logistic Regression, Multinomial Naive Bias (Compare on the same database)
+Classification: SVM, Random Forest (Compare on the same dataset using various performance matrices like acc, recall. Before that, show the distribution of data)
+Clustering: K-Means and GMM (Comparison)
+PCA: Showing its performance
+
+Theory:
+Fundamental Concepts of Machine Learning and Statistics:
+The core idea behind machine learning. What is the difference between hard-coding (traditional coding) and machine learning?
+Define classification and regression with an example.
+Sum of squared residual. Why do we square residuals?
+
+linear and logistic regression:
+What are the assumptions of linear and logistic regression?
+How do you interpret the coefficient of linear regression and logistic model and limitations both of them?
+Why do we use the sigmoid function in logistic regression?
+How can you detect if the model (linear and regression) is underfitting or overfitting?
+
+Gradient Descent: Three questions from the book StatQuest.
+
+Regularization: Ridge and Lasso: assumption and critical difference.
+When should we use logistic regression over others like svm(support vector machine) or decision tree?
+What is ROC and what does AUC represent?
+
+Multinomial: What is naive byes algorithm? Why is it called naive? Advantages and Limitations. When to use Gaussian Naive use?
+How does Gaussian Naive models fit features?
+
+Three questions from the book StatQuest of naive bayes.
+
+
+Decision Tree:
+Classification and regression tree diff?
+Why decision tree learning algorithm is called greedy? Is it a problem? if problem How to overcome?
+Advantages and disadvantages of Decision Tree?
+Why random forest is better than single decision tree?
+Limitations of random forest tree?
+What is bagging in random forest? How it is used? What is out of bag error?
+Write down the main steps of random forest (4 marks)--classroom
+
+SVM:
+What are support vectors? Margin. Soft and hard margin.
+In which situation should we use SVM over logistic regression, Explain.book page 219
+Three main steps of support vector machine with example (4 marks)--book page 226
+Kernel in SVM --book page 232
+define Langrangian multiplier method --book page 231
+
+
+
+PCA:ALL ans in website(geeksforgeeks)
+eigenvalue and eigenvector criteria
+main step of pca
+limitation and advantage of pca
+
+Clustering:
+Comparisons of k-means clustering with hierarchical clustering, gaussian mixture model and DBSCAN clustering .
+Which algorithm is suitable for which situation?
+limitations of different clustering.
+gaussian mixture model--video in classroom
+
+Unsupervised learning:CT-1 and pdf basics
+Difference between classification and clustering.
+Unsupervised learning challenges
+
